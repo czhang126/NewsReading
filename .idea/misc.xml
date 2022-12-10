@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/enter_bar.xml" value="0.123" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.176" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/selector_topic_item.xml" value="0.367" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/selector_topic_item_select.xml" value="0.367" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/shape_enter_bar.xml" value="0.176" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/topic_item.xml" value="0.239" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/drawable/topic_item_select.xml" value="0.239" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/acticity_choose_topic.xml" value="0.33" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_bar.xml" value="0.1" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_bar_home.xml" value="0.2755208333333333" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_bar_search.xml" value="0.33" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_item_news.xml" value="0.2755208333333333" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_like_list.xml" value="0.24114583333333334" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_list_like.xml" value="0.25" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_list_news.xml" value="0.2644927536231884" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_list_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.17685185185185184" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_maps.xml" value="0.33" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_news_detail.xml" value="0.25" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_news_list.xml" value="0.25" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_page_detail.xml" value="0.2755208333333333" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_page_login.xml" value="0.2755208333333333" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_page_maps.xml" value="0.24003623188405798" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_page_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_page_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_page_topic.xml" value="0.25416666666666665" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_quote_reader.xml" value="0.3283514492753623" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_search_list.xml" value="0.2713541666666667" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_search_result.xml" value="0.24635416666666668" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_searchbar.xml" value="0.25" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_signup.xml" value="0.3515625" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_toolbar.xml" value="0.25" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/activity_topic.xml" value="0.25677083333333334" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/choose_topic.xml" value="0.24635416666666668" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/enter_bar.xml" value="0.20153985507246377" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/list_item_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/news_detail.xml" value="0.25" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/news_item.xml" value="0.2598187311178248" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/layout/quote_detail.xml" value="0.10461956521739131" />
+        <entry key="..\:/TEST/itmd555/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

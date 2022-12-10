@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NEWS</string>
+    <string name="choose_topic">Choose a topic before you begin:</string>
+</resources>

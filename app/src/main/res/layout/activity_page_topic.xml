@@ -1,0 +1,94 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    android:gravity="center" >
+
+    <TableRow
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textChooseTopic"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textSize="33sp"
+            android:textColor="@color/white"
+            android:text="Choose Topic You Like"/>
+
+    </TableRow>
+    <TableRow
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textChooseArt"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Art"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/white"/>
+
+    </TableRow>
+    <TableRow
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textChooseSport"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Sport"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/white"/>
+
+    </TableRow>
+    <TableRow
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textChooseBusiness"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Business"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/white"/>
+
+    </TableRow>
+    <TableRow
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textChooseScience"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Science"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/white"/>
+
+    </TableRow>
+    <TableRow
+        android:gravity="center">
+        <TextView
+            android:id="@+id/textChooseTechnology"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Technology"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/white"/>
+
+    </TableRow>
+
+    <TableRow
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:layout_width="match_parent">
+    </TableRow>
+
+    <TableRow
+        android:gravity="center">
+        <Button android:id="@+id/buttonChooseTopic"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Choose"
+            android:textSize="20sp"
+            android:background="@color/white" />
+    </TableRow>
+</TableLayout>

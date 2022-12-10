@@ -1,0 +1,64 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <TableRow
+        android:gravity="center"
+        android:paddingBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+        <EditText
+            android:id="@+id/editTextLoginUsername"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="Username"
+            android:inputType="textPersonName" />
+        <requestFocus />
+    </TableRow>
+    <TableRow
+        android:gravity="center"
+        android:paddingBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+        <EditText
+            android:id="@+id/editTextLoginPassword"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"/>
+    </TableRow>
+    <TableRow
+        android:gravity="center"
+        android:paddingBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="Login" />
+    </TableRow>
+    <TableRow
+        android:gravity="center"
+        android:paddingBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+        <Button
+            android:id="@+id/buttonGoToSignup"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="Go To SignUp" />
+    </TableRow>
+    <TableRow
+        android:gravity="center"
+        android:paddingBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+        <Button
+            android:id="@+id/buttonGoogleMap"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="Google Map" />
+    </TableRow>
+</TableLayout>
